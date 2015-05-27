@@ -1,6 +1,8 @@
 Peppermint Bug/Features tracker
 ==========
 
+[![Join the chat at https://gitter.im/osxpeppermint/peppermint](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/osxpeppermint/peppermint?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 OK, so welcome to the official bug/features tracker for Peppermint.
 
 We're open to suggestions / ideas / bug reports / feature requests. Anything goes!
