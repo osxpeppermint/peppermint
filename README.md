@@ -10,9 +10,13 @@ And we needed an easy way to keep it all organized, in one place, and help you h
 
 So, here you are: just jump to the Issues page, and shoot us! ;-)
 
+----
+
 But there's more. What about having a look below the surface?
 
 - The default Peppermint themes' source: https://github.com/osxpeppermint/peppermint-themes
 - The default Peppermint specs' source: https://github.com/osxpeppermint/peppermint-specs
+
+----
 
 Welcome on board!
