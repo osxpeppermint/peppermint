@@ -1,5 +1,7 @@
-Peppermint Bug/Features tracker
+![](https://avatars2.githubusercontent.com/u/9476915?v=3&s=24) Peppermint
 ==========
+
+**Bug/Features tracker**
 
 [![Join the chat at https://gitter.im/osxpeppermint/peppermint](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/osxpeppermint/peppermint?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
