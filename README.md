@@ -7,10 +7,10 @@
 
 Welcome to the official bug/features tracker for Peppermint!
 
-We're open to suggestions / ideas / bug reports / feature requests. Anything goes!
-And we needed an easy way to keep it all organized, in one place, and help you help us make Peppermint the most awesome editor for OSX.
+I'm open to suggestions / ideas / bug reports / feature requests. Anything goes!
+And since an easy way to keep it all organized, in one place, was badly needed - let's... help you help me make Peppermint the most awesome editor for OSX.
 
-So, here you are: just jump to the Issues page, and shoot us! ;-)
+So, here you are: just jump to the Issues page, and shoot me - the whole development team (a weird code-addict going by the name "Dr.Kameleon") will be here! ;-)
 
 ----
 
