@@ -19,7 +19,7 @@ But there's more. What about having a look below the surface?
 - The default Peppermint themes' source: https://github.com/osxpeppermint/peppermint-themes
 - The default Peppermint specs' source: https://github.com/osxpeppermint/peppermint-specs
 
-Or, perhaps, have a look at the [Official Documentation](http://osxpeppermint.com/docs).
+Or, perhaps, have a look at the [Official Documentation](http://osxpeppermint.com/documentation).
 
 ----
 
