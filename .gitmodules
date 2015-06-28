@@ -1,0 +1,6 @@
+[submodule "peppermint-themes"]
+	path = peppermint-themes
+	url = git://github.com/osxpeppermint/peppermint-themes.git
+[submodule "peppermint-specs"]
+	path = peppermint-specs
+	url = git://github.com/osxpeppermint/peppermint-specs.git
