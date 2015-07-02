@@ -1,5 +1,8 @@
-![](https://avatars2.githubusercontent.com/u/9476915?v=3&s=24) Peppermint
-==========
+# ![](https://avatars2.githubusercontent.com/u/9476915?v=3&s=24) Peppermint
+
+### The scriptable Swiss-Army Knife for coding on OSX.
+
+----
 
 **Bug/Features tracker**
 
